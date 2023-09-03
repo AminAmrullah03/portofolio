@@ -1,0 +1,122 @@
+body {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 320'%3E%3Cpath fill='%23a2d9ff' fill-opacity='1' d='M0,224L48,202.7C96,181,192,139,288,106.7C384,75,480,53,576,74.7C672,96,768,160,864,186.7C960,213,1056,203,1152,186.7C1248,171,1344,149,1392,138.7L1440,128L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#home{
+    color: rgb(81, 79, 76);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+#home:hover{
+    background-color: rgb(81, 79, 76);
+    color: aliceblue;
+}
+
+#about{
+    color: rgb(81, 79, 76);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+#about:hover{
+    background-color: rgb(81, 79, 76);
+    color: aliceblue;
+}
+
+#edu{
+    color: rgb(81, 79, 76);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+#edu:hover{
+    background-color: rgb(81, 79, 76);
+    color: aliceblue;
+}
+
+#por{
+    color: rgb(81, 79, 76);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+#por:hover{
+    background-color: rgb(81, 79, 76);
+    color: aliceblue;
+}
+
+#con{
+    color: rgb(81, 79, 76);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+#con:hover{
+    background-color: rgb(81, 79, 76);
+    color: aliceblue;
+}
+
+.nav-item{
+    padding: 10px;
+}
+
+.btn{
+    border: 1;
+    border-radius: 30;
+    color: blue;
+    border-color: blue;
+}
+.btn:hover{
+    background-color: blue;
+    color: antiquewhite;
+}
+
+
+.icon {
+    font-size: 24px; /* Mengatur ukuran ikon */
+    display: flex;
+    justify-content: center; /* Mengatur ikon berada di tengah secara horizontal */
+    align-items: center; /* Mengatur ikon berada di tengah secara vertikal */
+}
+
+.icon i {
+    margin-top: 10px;
+    margin-right: 20px; /* Memberi jarak antara ikon */
+}
+
+.icon .fab {
+    font-size: 36px; /* Mengubah ukuran ikon FontAwesome */
+}
+footer {
+    background-color: #e0f4f6; /* Warna latar belakang */
+    padding: 20px; /* Ruang dalam footer */
+    text-align: center; /* Tengah teks */
+}
+
+/* Gaya untuk teks dalam footer */
+footer p {
+    margin: 0; /* Menghapus margin bawaan */
+    font-size: 14px; /* Ukuran teks */
+    color: #333; /* Warna teks */
+}
+
+
+
